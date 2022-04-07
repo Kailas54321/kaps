@@ -1,5 +1,3 @@
-hello kailas welcome to webhook
 
-perform
-echo "automation"
+echo "this is my automation"
 
