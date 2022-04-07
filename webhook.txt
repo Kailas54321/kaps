@@ -1,3 +1,4 @@
 
 echo "this is my automation  all ofthese done"
 
+ok
