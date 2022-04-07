@@ -1,4 +1,4 @@
 
-echo "this is my automation  all ofthese done"
+echo "this is my automation get it done  all ofthese done"
 
-ok
+
