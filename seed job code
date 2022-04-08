@@ -1,0 +1,5 @@
+job('seedjob'){
+steps {
+  shell('echo "hello seed"')
+  }
+  }
